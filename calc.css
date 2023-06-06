@@ -1,0 +1,43 @@
+.calc{
+
+	padding: 20PX;
+	border-radius: 40px;
+	background-color: black;
+	height: 550px;
+	width: 450px;
+	margin: auto;
+	box-shadow: rgba(0,0,0,0.5) 0px 10px 20px ,rgba(0,0,0,0.23) 0px 16px 25px  ;
+
+}
+.display-box{
+	width: 80%;
+	height: 50Px;	
+	border-radius: 20px;
+	font-family: sans-serif;
+	background-color: white;
+	border: 5px solid black;
+}
+#btn{
+	background-color: rgb(3, 252, 3);
+
+}
+#btn:active{
+	background-color: blue;
+}
+ input[type=button]{
+ 	font-family: sans-serif;
+ 	background-color: rgb(252, 3, 86);
+ 	border: 1.5px solid white;
+ 	border-radius :40px;
+ 	height:30px;
+ 	width: 40px
+ 	 }
+
+  input:active[type=button]{
+  	background-color: pink;
+  }
+  body{
+  	background-color: blue;
+
+  	s
+  }
